@@ -28,3 +28,5 @@
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=4VVL78edhbW9&format=png&color=000000" alt="Adobe XD" width="40" height="40"/> </a>
 <!-- Clip Studio Paint -->
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=oZIUvTHvwcQk&format=png&color=000000" alt="Clip Studio Paint" width="40" height="40"/> </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krank0000&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
