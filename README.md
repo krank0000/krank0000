@@ -5,8 +5,8 @@
 
 - 📫 How to reach me **krank00100@gmail.com**
 
-<h3 align="left">🚀 Skills & Technologies</h3>
-<p align="left">  
+<h3 align="center">🚀 Skills & Technologies</h3>
+<p align="center">  
 <!-- html5 -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <!-- css3 -->
@@ -19,7 +19,7 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <!-- bootstrap -->
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" alt="bootstrap" width="40" height="40"/> </a>
-</br>
+<!-- </br> -->
 <!-- figma -->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <!-- photoshop -->
@@ -28,5 +28,5 @@
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=4VVL78edhbW9&format=png&color=000000" alt="Adobe XD" width="40" height="40"/> </a>
 <!-- Clip Studio Paint -->
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=oZIUvTHvwcQk&format=png&color=000000" alt="Clip Studio Paint" width="40" height="40"/> </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krank0000&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- GitHub 統計訊息 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krank0000&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
