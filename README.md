@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chaio</h1>
 <h3 align="center">I’m a Front-End Developer with a passion for crafting intuitive and aesthetically pleasing web interfaces.</h3>
 
+<!--
 - 👨‍💻 All of my projects are available at [Portfolio](https://www.figma.com/proto/lpumVFIsEs7dMGRlto8oYh/Portfolio-%E4%BD%9C%E5%93%81%E9%9B%86-By-Chaio-Sung?node-id=1-167&t=wQYyR9JL7uLWLIHU-1)
-
+ -->
 - 📫 How to reach me **krank00100@gmail.com**
 
 <h3 align="center">🚀 Skills & Technologies</h3>
